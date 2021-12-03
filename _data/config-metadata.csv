@@ -1,15 +1,21 @@
 field,display_name,browse_link,external_link
+identifier,Identifier,
+filename,File Name,
+youtubeid,YouTube Link,
+description,Description,
 title,Title,
 creator,Creator,
+contributor,Contributor,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+subject,Subject,
+location,Location,
+referencedlocation,Location Referenced,
+latitude,Latitude,
+longitude,Longitude,
+publisher,Publisher,
+source,Source,
 type,Type,
 format,Format,
+language,Langauge
 rights,Rights,
-rightsstatement,Rights Statement,,true
